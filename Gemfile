@@ -15,6 +15,8 @@ gem 'uglifier', '>= 4.2.0'
 gem 'webpacker'
 # Use kaminari for activerecord pagination
 gem 'kaminari'
+# Use Stripe for receiving payments
+gem 'stripe'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'mini_racer', platforms: :ruby
 
